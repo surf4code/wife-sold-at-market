@@ -1,0 +1,87 @@
+name: Ultra-Fast Render 21-Min Film
+
+on:
+  workflow_dispatch:
+
+jobs:
+  prepare-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install & Cache Everything
+        uses: actions/cache@v4
+        id: cache-deps
+        with:
+          path: |
+            node_modules
+            ~/.cache/remotion
+          key: remotion-full-${{ hashFiles('package-lock.json') }}
+      - run: npm ci && npx remotion browser ensure
+
+  render-20-parallel:
+    needs: prepare-cache
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        part: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - uses: actions/cache@v4
+        with:
+          path: |
+            node_modules
+            ~/.cache/remotion
+          key: remotion-full-${{ hashFiles('package-lock.json') }}
+
+      - name: Render Chunk (Ultra-Fast 720p)
+        run: |
+          mkdir -p out
+          START=$(( ${{ matrix.part }} * 1780 ))
+          END=$(( START + 1779 ))
+          if [ $END -gt 35582 ]; then END=35582; fi
+          PADDED=$(printf "%02d" ${{ matrix.part }})
+          npx remotion render src/index.ts Film out/part_${PADDED}.mp4 \
+            --frames=${START}-${END} \
+            --gl=swangle \
+            --concurrency=4 \
+            --scale=0.67 \
+            --codec=h264 \
+            --x264-preset=ultrafast \
+            --crf=21 \
+            --pixel-format=yuv420p \
+            --timeout=300000
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chunk-${{ matrix.part }}
+          path: out/part_*.mp4
+
+  merge-final:
+    needs: render-20-parallel
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          path: chunks
+          merge-multiple: true
+
+      - name: Instant Merge into final.mp4
+        run: |
+          cd chunks
+          for f in $(ls part_*.mp4 | sort); do echo "file '$f'" >> list.txt; done
+          ffmpeg -f concat -safe 0 -i list.txt -c copy final.mp4
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FINAL-FILM-21MIN
+          path: chunks/final.mp4
