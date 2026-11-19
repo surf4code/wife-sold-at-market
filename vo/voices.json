@@ -1,0 +1,58 @@
+{
+  "AKIRA": {
+    "voice": "Algieba",
+    "style": "dry and deadpan"
+  },
+  "NARRATOR": {
+    "voice": "Charon",
+    "style": ""
+  },
+  "DAUGHTER": {
+    "voice": "Leda",
+    "style": ""
+  },
+  "DROVER": {
+    "voice": "Orus",
+    "style": ""
+  },
+  "GRANDDAUGHTER": {
+    "voice": "Zephyr",
+    "style": ""
+  },
+  "MOTHER": {
+    "voice": "Despina",
+    "style": ""
+  },
+  "NED": {
+    "voice": "Algenib",
+    "style": ""
+  },
+  "NEIGHBOUR": {
+    "voice": "Gacrux",
+    "style": ""
+  },
+  "PEG": {
+    "voice": "Sulafat",
+    "style": ""
+  },
+  "SAM": {
+    "voice": "Achernar",
+    "style": ""
+  },
+  "SON": {
+    "voice": "Puck",
+    "style": ""
+  },
+  "YOU": {
+    "voice": "Kore",
+    "style": ""
+  },
+  "BELLMAN": {
+    "voice": "Rasalgethi",
+    "style": ""
+  },
+  "CROWD": {
+    "voice": "Fenrir",
+    "style": ""
+  }
+}

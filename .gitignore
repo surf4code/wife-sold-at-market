@@ -1,0 +1,18 @@
+node_modules/
+out/
+!out/stills/sheet.jpg
+.env
+.remotion/
+*.z0*
+*.zip
+dist/
+build/
+.DS_Store
+
+# Explicitly track essential voice, audio & timings assets for Codespaces
+!public/vo/voice.mp3
+!public/audio/
+!public/audio/*.wav
+!vo/timings.json
+!vo/voice_manifest.json
+!vo/script_marked.md

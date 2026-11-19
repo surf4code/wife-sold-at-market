@@ -1,0 +1,32 @@
+Who speaks each quote ('??' = a guess; fix with vo/speaker_overrides.json: {"first words of the quote": "NED"})
+
+   MOTHER     Marry carefully,
+   MOTHER     You only do it once.
+   NEIGHBOUR  She went for four shillings,
+   MOTHER     Cheap.
+   PEG        Not a hen, love,
+   PEG        Me.
+   PEG        Nobody cried,
+   PEG        Except the nail-maker, when he saw the bill for the ale.
+   YOU        Was it real?
+   PEG        Real as anything,
+   PEG        The law doesn't care. The street does.
+   PEG        It only works if all three say yes. Him, the buyer, and her. If the woman isn't 
+   PEG        Eat that.
+   YOU        I will.
+   BELLMAN    Oyez,
+   NED        Peg did it,
+   NED        It worked for Peg.
+   YOU        Peg said yes,
+   NED        Gentlemen,
+   NED        I offer you my wife, with all her perfections and imperfections.
+   DROVER     Two.
+   DROVER     Four,
+   SAM        Six.
+   DROVER     Seven,
+   SAM        Nine.
+   NED        Nine shillings,
+   NED        Going once. Going twice.
+   CROWD      Nine Bob.
+   YOU        A hen, love,
+   YOU        A very good hen.

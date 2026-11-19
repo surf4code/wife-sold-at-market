@@ -1,0 +1,308 @@
+# Why It Sucks to Be a Wife Sold at a Market (in 1800s England)
+
+Format: Bernard-style animated history | Narrator: Akira | All characters: plain stickmen
+Target: about 21 min | Fictional dramatization inspired by historical accounts
+
+---
+
+## A. STORY BIBLE
+
+**Role / fate:** a wife "sold" at a market in a Smithfield bargain
+**Place / era:** Birmingham, England, 1801 to 1869 (the sale itself: 1834)
+**Ending type:** small bittersweet image, then a short omniscient epilogue, last line is the callback joke
+
+**Cast (plain stickmen, no clothes, no hair, no props worn). Identity comes from height, screen position, label and bubbles.**
+
+| ID | Role | Label text | Height / head | Screen position |
+|---|---|---|---|---|
+| YOU | Protagonist | (none, the viewer) | medium; child versions shorter with larger head; age label on screen | left |
+| NED | Husband, ostler | NED | tall, upright | right |
+| PEG | Neighbour, pie seller | PEG | short, wide stance | right |
+| SAM | Lodger, brass-caster | SAM | medium, slightly hunched | right (from the sale onward) |
+| DROVER | Stranger bidder | THE DROVER | tall, broad | right-back |
+| DAUGHTER | Your daughter | DAUGHTER | child size (12), adult size (30) | left of crowd / back pew |
+| SON | Your son | SON | smaller child (9) | beside daughter |
+| BELLMAN | Town crier | THE BELLMAN | medium | centre-back |
+| VICAR | Church | THE VICAR | tall | centre |
+| CROWD | Market crowd | none | many small stickmen, a few grey blobs | background |
+| AKIRA | Narrator | none | user's own Akira design, flat sage backdrop | cutaways only |
+
+**Authentic terms:** Smithfield bargain, coverture, halter (rope of straw), bellman, Bull Ring, St Martin's, ostler, drover, journeyman.
+
+**Money facts:** a labourer-level wage is about a pound in a good week; a divorce by Act of Parliament cost hundreds of pounds and often over a thousand; wife-sale prices ran from a few shillings to a few pounds; real example: Carlisle, 1832, 20 shillings and a Newfoundland dog.
+
+**Laws that trap you:** coverture (wages, property, children belong to husband); the three-step divorce (church court, damages case, private Act of Parliament); the sale has no legal force; custody of children under seven only for mothers of "spotless" reputation (1839).
+
+**Recurring objects:** the hen ("she went for four shillings"), the straw rope, the tin under the floorboard, the ha'penny gingerbread.
+
+**Sympathetic antagonist:** Ned. His reason is revealed in the kitchen confession.
+
+**Sets:** S1 back room / kitchen (night, candle) | S2 Bull Ring market (noon, wide + close variants) | S3 St Martin's church interior | S4 workshop bench | S5 back step and pie window | S6 pub table | S7 brass foundry attic room
+
+---
+
+## B. NARRATION SCRIPT
+
+> ALIAS: SAM = lodger, brass-caster
+> ALIAS: DROVER = drover
+> ALIAS: PEG = peg
+> ALIAS: GRANDDAUGHTER = granddaughter
+
+
+> Lines starting with ">" are editor cues (labels, bubbles, Akira). Everything else is voice-over.
+
+> LABEL top-centre: `1801` then `BIRMINGHAM, ENGLAND`
+
+> SET: S1 | lamp | YOU@CL
+You're born in Birmingham in 1801, in a back room that smells of brass filings and boiled cabbage. Your father takes one look at you and asks the midwife whether the next one will be a boy. You are an hour old, and you have already disappointed the family business.
+
+The business is buckles. Your father is a journeyman in a workshop where forty men hammer tiny bits of metal for customers who will never know their names. Your mother polishes the finished ones at the kitchen table, by candlelight, for a few pence a dozen. Between them they earn enough to eat. Not one penny more.
+
+> SET: S2 | day | YOU@L
+Birmingham is a loud town, and everything in it is for sale. Buttons, buckles, guns, a day of your labour. The loudest place of all is the Bull Ring, the market at the heart of the town. Cattle on one side, cabbages on the other, and a crowd shouting prices over both. You'll spend a lot of time there. Remember it.
+
+> AKIRA (deadpan): "Remember the market. It's going to be important. Unfortunately."
+
+> SET: S1 | lamp | YOU@CL
+At home, you learn the rules early. The truth is, English law has a word for what happens to a woman at her wedding. It's called coverture. A wife, the law says, doesn't exist on her own. She is "covered" by her husband, like a table under a cloth. Her wages are his. Her furniture is his. Her children are his. She can't sign a contract or bring a case to court without him. In short, a wife is a person who is legally permitted to be present.
+
+Your mother puts it more simply. "Marry carefully," she says. "You only do it once."
+
+She means that literally. There is exactly one legal way out of an English marriage, and it isn't built for people like you. First, a church court must agree that the couple may live apart. Then the husband must sue his wife's lover in a second court. Only after that can Parliament pass a private law, just for that one couple. Three separate cases, years of waiting, and a bill of hundreds of pounds, often over a thousand. Your father is lucky to earn a pound in a good week. For families like yours, divorce isn't forbidden. It's just something that happens to dukes.
+
+Nobody mentions any of this as a warning. They mention it the way they mention the weather.
+
+> LABEL top-left: `6 YEARS OLD`
+
+> SET: S5 | day | YOU@L
+You're six when you first hear the words. You're sitting on the back step, shelling peas, when a neighbour leans over the fence and tells your mother about a woman three streets away. "She went for four shillings," the neighbour says. Your mother clicks her tongue. "Cheap."
+
+You assume they mean a hen. A bad hen, probably.
+
+> SET: S4 | lamp | YOU@CL
+By eight, you're working. Your mother takes you to the buckle shop and sits you at a bench to sort the little metal tongues by size, twelve hours a day, for a few pennies a week. The room is hot, and the air tastes of metal. Your fingers learn to find a bent tongue by touch, and by ten you can sort a whole tray in the dark. Nobody calls it a skill. Nobody pays for it, either. The first time you're paid, you hold the coins for exactly as long as the walk home. Then you hand them to your father. After all, they were never going to be yours.
+
+> LABEL top-left: `11 YEARS OLD`
+
+> SET: S5 | day | YOU@L PEG@R
+You're eleven when you finally ask what the four shillings were for. You ask the woman herself. Her name is Peg, she sells pies from her front window, and she laughs so hard that she has to sit down on an upturned bucket.
+
+"Not a hen, love," she says. "Me."
+
+Her window smells of hot pastry and onions. A queue of hungry men forms outside it every noon, and she says they taught her everything she knows about haggling.
+
+Peg tells it like the best night out of her life. Her first husband was a nail-maker with a face like a boiled ham and about as much conversation. Peg loved a cooper named Alf, and had done for two years. Nobody in her position could afford Parliament, so they did what people in her position did. They held a Smithfield bargain.
+
+The name comes from London's great meat market, and it fits. The bellman went round the streets that morning, ringing and shouting that a wife would be sold at noon. Her husband tied a rope of straw round her neck and led her to the Bull Ring. He offered her to the crowd like a heifer. Alf, who had known the plan for a week, bid four shillings. Nobody dared bid higher. The husband took the money, signed a scrap of paper, and the three of them walked to the pub and drank to it.
+
+"Nobody cried," Peg says. "Except the nail-maker, when he saw the bill for the ale."
+
+The truth is, Peg isn't unusual. The custom has no legal force at all. Magistrates don't love it, but they mostly shrug, and one historian has confirmed more than two hundred cases across England, with plenty more that never reached a newspaper. In the eyes of the street, it's as good as a church, because everyone in sight has agreed to treat it that way.
+
+"Was it real?" you ask.
+
+"Real as anything," says Peg. "The law doesn't care. The street does."
+
+Then she gets serious, which, from Peg, is alarming. "It only works if all three say yes. Him, the buyer, and her. If the woman isn't willing, it's not a bargain. It's a man dragging his wife through a market on a rope."
+
+You ask what happens then. Peg hands you a pie. "Eat that."
+
+You eat the pie. It's a good pie. What you don't realize is that Peg has just told you the only rule that will ever matter.
+
+> AKIRA (smirk): "Smithfield bargain. Divorce, but with livestock."
+
+> LABEL top-left: `YEARS PASS`
+
+> SET: S2 | day | YOU@L NED@R
+Years pass as you turn nineteen, and you marry Ned.
+
+Ned is an ostler at a coaching inn near the market, the Hen and Chickens. Of course it's called the Hen and Chickens. You never tell anyone why you laugh. Ned is easy to like. He sings. He lifts you off the ground when he's happy. Everyone agrees he's wonderful with animals, and you take that as a compliment.
+
+> SET: S3 | day | YOU@CL NED@CR
+Your father arranges the match the way he arranges everything: over a pint, in about four minutes. Ned has a steady wage and a roof. The vicar at St Martin's, the church that stands over the Bull Ring, asks if you will take this man. You say "I will." It isn't a question so much as a line you were given.
+
+> BUBBLE (YOU): "I WILL."
+
+> SET: S1 | lamp | YOU@CL NED@CR
+For a few years, it's genuinely good. You rent a room above a chandler's shop. On Saturdays Ned takes you to the market and buys you a ha'penny gingerbread, and you eat it slowly so that it lasts the whole walk home. In 1822, you have a daughter. In 1825, a son. Ned sings to both of them in the same cheerful voice he uses on the horses. In the quiet of the night you think, this is it. This is what the rules were for.
+
+Married life, you discover, runs on a timetable. You're up at five to fetch water from the pump and light the fire. You make Ned's breakfast, then the children's, then you scrub whatever the day has made dirty, which is everything. In the evening you mend, and cook, and listen to him describe his day. Nobody calls any of this work. They call it being a wife.
+
+Still, you keep a tin under the floorboard, with a few coppers in it. You aren't sure why. Peg's voice, perhaps. Legally the tin is his too. But it makes you feel better.
+
+> LABEL top-left: `29 YEARS OLD`
+
+> SET: S1 | lamp | YOU@L NED@CR SAM@R
+You're twenty-nine when things start to fall apart. Ned argues with the landlord over a bill and is dismissed from the Hen and Chickens. It was the landlord's fault, he tells you. For some reason, it's always somebody else's fault.
+
+You move to one room. Ned finds evening work at a tavern, serving drinks. Mostly he drinks them. Instead of complaining, you take in washing. You stand over copper tubs from dawn, and your hands go red and then grey. You earn about six shillings a week, and on Friday night Ned collects it. After all, it's his. Every few weeks he finds the tin.
+
+To cover the rent, you take in a lodger. He's a brass-caster in his forties, a widower, who speaks about eleven words a week, four of them "thank you". He mends your son's boots without being asked. He fixes the broken stair. He is, you notice, the only man in the house who fixes things.
+
+What you don't know is that Ned has found someone else. The barmaid at his tavern is expecting his child. The whole street knows. Nobody tells you. Nobody ever tells the wife.
+
+The truth is, Ned has a problem he can't solve. He can't afford a lawyer. He can't afford Parliament. He can't afford two households. But he remembers Peg, and a rope of straw.
+
+> AKIRA (wide-eyed): "Spoiler: he did not ask Peg how it went for the wife."
+
+> LABEL top-left: `1834`  /  `33 YEARS OLD`
+
+> SET: S2 | dusk | YOU@L
+One Monday evening, you're carrying a basket of damp sheets through the Bull Ring when the bellman starts to ring. "Oyez," he shouts, and the crowd gives him half an ear. On Thursday, at noon, a man will sell his wife by auction to the highest bidder. He says the man's name. It's Ned's.
+
+The wife isn't named. She doesn't need to be. Halfway across the square, the sheets in your arms become very heavy.
+
+> SET: S1 | lamp | YOU@L NED@R
+Immediately, you walk home. Ned is at the table with a tankard, whispering to himself. He has a speech. You can see his lips moving.
+
+You'd expect shouting. It isn't like that. Ned tells you, quietly, that he isn't a cruel man, and the strange thing is, he isn't. He's a man with a barmaid, a baby on the way, and a law with one door, and that door was built for dukes. "Peg did it," he says. "It worked for Peg." He adds that Peg fetched four shillings and a quart of ale, and that he'd happily settle for the ale.
+
+"Peg said yes," you say.
+
+He looks at you like a puzzle that's missing a piece. Then he tells you the children will stay with him. This isn't a negotiation. The law, he points out, is on his side, so he doesn't have to negotiate. He's right. A father in England has every right over his children. A mother has the right to be informed that she's leaving.
+
+You nod. You say nothing at all. Nobody asks what you think, and, to be fair to Ned, he never claimed otherwise.
+
+> BUBBLE (NED): "IT'S HOW PEOPLE LIKE US DO IT."
+
+> LABEL top-left: `THURSDAY, NOON`
+
+> SET: S2 | day | YOU@CL NED@CR DROVER@R PEG@FL DAUGHTER@BL SON@B SAM@FR
+Thursday comes.
+
+The Bull Ring at noon is ordinary and loud. Cattle low in their pens. Stallholders shout about turnips. Somebody, somewhere, is selling pins. The whole square smells of dung, wet straw and frying onions. And in the middle, where a crowd has formed the way crowds do when someone is about to be humiliated, there is a clear space, and it's meant for you.
+
+Ned ties the rope of straw round your neck himself. He does it the way he ties up a horse at the Hen and Chickens. Quick. Gentle. Without looking. He's very good with animals.
+
+He leads you into the middle by the loose end. People step back to let you through. A child laughs. Another child asks what you did. The straw scratches your neck. It's a small, stupid discomfort, and for some reason it's the only thing in the world you can concentrate on.
+
+Your daughter is in the crowd, twelve years old, holding your son's hand. He's nine. Peg is there too, shoving through the elbows with her hand over her mouth. When she reaches the front, she shouts something at Ned that you can't print. He pretends not to hear her. It's the only thing he has ever pretended well.
+
+Ned clears his throat. He's been practising. "Gentlemen," he says. "I offer you my wife, with all her perfections and imperfections." You wonder what he thinks the imperfections are. He lists three. One is your cooking.
+
+It isn't an original speech. Two years earlier, in Carlisle, a farmer made almost exactly the same one. He asked fifty shillings. He settled for twenty, plus a Newfoundland dog.
+
+> AKIRA (deadpan): "The dog was a bonus."
+
+Ned asks ten shillings. Nobody says anything. The silence is the loudest thing in the Bull Ring.
+
+Then a drover at the back, a cattle man who knows exactly what animals are worth, calls out, "Two."
+
+Two shillings. For a person. The crowd laughs, and you hear every voice. You're worth, to the town of Birmingham, less than a decent dinner.
+
+"Four," says the drover. He's looking at you the way he looks at stock. Your hands. Your shoulders. Your teeth, almost. You stare past him, at the church where you were married.
+
+> BUBBLE (DROVER): "FOUR."
+
+"Six."
+
+You know the voice. It's the lodger. He's pushed to the front of the crowd, brass dust still on his hands, breathing hard. He has never said so many words in public.
+
+"Seven," says the drover, shrugging.
+
+"Nine."
+
+Silence. The drover weighs it up. Seven shillings, it seems, is the price of a woman. Nine is the price of a mistake. He shakes his head and turns away.
+
+"Nine shillings," says Ned. "Going once. Going twice."
+
+> BUBBLE (NED): "SOLD!"
+
+The bellman rings.
+
+Ned signs a scrap of paper. The lodger counts out nine shillings, then pays for the bell, then buys a round of drinks for the whole crowd. This is the custom. The buyer pays for the wife, and for the party.
+
+> SET: S6 | lamp | YOU@CL NED@CR SAM@R
+Ned unties the straw from your neck and lets it drop onto the cobbles. Then he shakes your new owner's hand, and the three of you go to the pub and sit at one table, because that is also the custom. Everyone laughs. You are the only one who doesn't.
+
+Your daughter doesn't wave. She's twelve. She has already decided something about you, and it will take years to find out what.
+
+> AKIRA (wide-eyed, no words)
+
+The truth is, none of it counts. The sale has no legal force, and a court, if anyone asked, would tell you so. In the years ahead, courts will increasingly do just that. You've been sold, and you're still married. Both things are true. You're the only person in the Bull Ring who finds that strange.
+
+> SET: S7 | lamp | YOU@CL SAM@R
+That night, the lodger walks you back to his attic above the brass foundry, three streets away. He carries your basket of damp sheets and doesn't say a word. He gives you the bed and takes the floor. In the morning, he has made tea, badly. It's the first morning in fourteen years when nobody tells you what you are.
+
+> SET: S7 | day | YOU@CL PEG@R
+On Sunday, Peg comes by with a pie. She doesn't say anything clever. She sits with you for an hour, and when she goes, she leaves the pie.
+
+> LABEL top-left: `YEARS PASS`
+
+> SET: S7 | lamp | YOU@CL SAM@R
+You stay. His name, it turns out, is Sam. For the first time in your life, you keep what you earn. He never asks for your wages. He puts a few coins on the table every Friday and says it's for the house. He eats what you cook and says it's fine, which, after fourteen years of Ned, sounds like poetry.
+
+> SET: S2 | day | YOU@L
+The neighbours whisper. You can't marry Sam in church, because you already have a husband, and a second wedding is a crime. The stallholders in the Bull Ring start calling you "Nine Bob." Not unkindly, mostly. It's what you cost, in the only currency anyone has ever offered.
+
+In 1839, Parliament finally lets some mothers ask a judge for custody of their small children. Only mothers with a spotless reputation. Only children under seven. Your children are seventeen and fourteen. And you have a reputation.
+
+> LABEL top-left: `1841`  /  `40 YEARS OLD`
+
+> SET: S5 | day | YOU@L NED@R SAM@BR
+You're forty when Ned turns up at your door. The barmaid has left him, taking the baby and most of the furniture. He's thinner. He's sober enough to be polite. He hasn't come to take you back. He's come for your wages.
+
+Turns out, he's been to see a clerk. He's been told, correctly, what you've never been able to forget. The sale meant nothing. You're still his wife. Everything you earn is his. He doesn't need to prove that he sold you. He only needs to prove that he married you.
+
+Immediately, you want to fight. Sam stays quiet. Then he points out, gently, that in a court somebody will ask what exactly happened at the Bull Ring that Thursday, and nobody in the room will be able to answer it safely.
+
+> SET: S2 | dusk | YOU@L NED@R
+So you pay. A shilling a week, every Friday, folded in a scrap of paper and handed over at the corner by the church. Over ten years, it comes to nearly sixty times what you were sold for. You were bought for nine shillings, and you pay for it for a decade. Ned gets his money twice.
+
+> BUBBLE (YOU): "…"
+
+> LABEL top-left: `1851`  /  `50 YEARS OLD`
+
+> SET: S1 | lamp | YOU@CL
+Ned dies in the workhouse infirmary, owing money to three taverns. A parish clerk sends a letter addressed to "the widow." You read it standing at the sink. You're fifty years old, and for the first time since you were nineteen, you are legally nobody's wife.
+
+You don't cry. For a while you don't feel anything at all. Then you sit down on the kitchen floor and feel everything at once, for about an hour, until Sam finds you and sits down on the floor next to you without saying a word.
+
+> SET: S1 | lamp | YOU@CL SAM@CR
+A few months later, he asks if you'd like to be married. He asks in the kitchen, with both hands wrapped round a tin mug, as if the question might spill. And then he does something nobody has done in fifty-one years. He waits for the answer.
+
+You take a full minute. He waits the whole time.
+
+You say yes. It's the first yes you've ever given that was entirely yours.
+
+> LABEL top-left: `1852`
+
+> SET: S3 | golden | YOU@CL SAM@CR DAUGHTER@BR
+You're married at St Martin's, the same church, the same Bull Ring below the steps. The vicar asks if you will have this man. The words are the same as the first time. The answer is not.
+
+At the back, in the last pew, sits a woman of thirty with a stern, familiar face. She doesn't speak. She doesn't come forward. But she stays until the end. It's about all she can give, and for now it's enough.
+
+> AKIRA (smirk): "Eighteen years. Nine shillings. Still no refund."
+
+> SET: S2 | dusk | YOU@L
+What you never learn is how long the custom outlived you. In 1857, Parliament opened a divorce court. It was cheaper than an Act of Parliament, which isn't the same as cheap, and it wasn't fair. A husband needed to prove one thing. A wife needed to prove more. Wife sales faded, but they didn't vanish. As late as 1913, a woman told a court that her husband had sold her to a workmate for a pound.
+
+The custom lived on in the imagination, too. In 1886, Thomas Hardy opened a novel, The Mayor of Casterbridge, with a drunk man selling his wife at a country fair for five guineas. Readers recognised it at once. Hardy didn't have to invent a thing.
+
+> LABEL top-left: `1869`  /  `68 YEARS OLD`
+
+> SET: S5 | golden | YOU@L GRANDDAUGHTER@R
+You're sixty-eight, sitting on a back step in Birmingham, shelling peas. Your granddaughter, who is six, comes out of the house with a puzzled face. A woman at the market, she tells you, said that someone once went for nine shillings. She asks what it means.
+
+You think about it for a long time.
+
+"A hen, love," you say. "A very good hen."
+
+> END CARD
+
+---
+
+## C. QUICK PACKAGING NOTES
+
+**Title (as given):** Why It Sucks to Be a Wife Sold at a Market (in 1800s England)
+**Thumbnail concept:** yellow outlined text `SOLD AT MARKET` (or `NINE SHILLINGS`) at the bottom; huge distressed stickman face left with a rope of straw round the neck; smirking husband stickman right pointing at a plain price board; painted Bull Ring behind with the church tower.
+**Description disclaimer line:** "This video is a fictional dramatization inspired by historical accounts of wife-selling in England. While based on real practices, characters and events are exaggerated for storytelling."
+
+## D. SOURCE NOTES (facts used)
+
+- Wife-selling halter, bellman, market ritual, consent, prices, around 200+ confirmed cases: berksfhs.org; kirkleescousins.co.uk; smarchive.org.uk; hungerfordvirtualmuseum.co.uk; Atlas Obscura (wife selling England beer)
+- Carlisle, 1832 (Joseph Thompson, 20 shillings and a Newfoundland dog): paperspast.natlib.govt.nz; utterlyinteresting.com
+- Birmingham cattle market wife sale, 1834 and 1835: madelinehunter.com; paperspast.natlib.govt.nz
+- Late claim, 1913: reginajeffers.blog
+- Historians: E. P. Thompson, *Customs in Common*; S. P. Menefee, *Wives for Sale*; Lawrence Stone, *Road to Divorce*
+- Fiction and characters are invented; Hardy, *The Mayor of Casterbridge* (1886) opens with a wife sale.
